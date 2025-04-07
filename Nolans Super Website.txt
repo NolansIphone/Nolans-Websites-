@@ -11,6 +11,6 @@
     <button onclick="showAlert()">Click Me</button>
 
     <script>
-        // JavaScript function to show an alert
+        /
         function showAlert() {
             alert("Hello! This is Nolans Website
