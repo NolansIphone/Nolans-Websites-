@@ -5,7 +5,7 @@
 
     <title>Nolans Website</title>
 </head>
-<body>
+
     <h1>Welcome to Nolans Website</h1>
     <p></p>
     <button onclick="showAlert()">Click Me</button>
